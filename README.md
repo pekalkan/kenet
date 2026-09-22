@@ -74,7 +74,7 @@ Put your audio files (mp3, m4a, ogg, opus, wav, aac, flac) into the `muzik/` fol
 
 ### Credits
 
-Designed and developed by **Enes**: concept, game design, stages, visual identity and sound direction. AI tools were used as a coding assistant.
+Designed and developed by **GNS**: concept, game design, stages, visual identity and sound direction. AI tools were used as a coding assistant.
 
 ### About this project
 
@@ -140,7 +140,7 @@ Ses dosyalarını (mp3, m4a, ogg, opus, wav, aac, flac) `muzik/` klasörüne koy
 
 ### Emeği geçenler
 
-Tasarım ve geliştirme: **Enes**. Fikir, oyun tasarımı, aşamalar, görsel kimlik ve ses yönetimi. Kodlamada yapay zekâ araçlarından yardım alındı.
+Tasarım ve geliştirme: **GNS**. Fikir, oyun tasarımı, aşamalar, görsel kimlik ve ses yönetimi. Kodlamada yapay zekâ araçlarından yardım alındı.
 
 ### Bu proje hakkında
 
