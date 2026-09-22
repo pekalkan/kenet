@@ -1,0 +1,12 @@
+# build
+.gradle/
+build/
+app/build/
+local.properties
+*.apk
+.tools/
+
+# your own music must never be committed (copyright)
+muzik/*
+!muzik/BURAYA-SARKILARINI-KOY.txt
+app/src/main/assets/music/
