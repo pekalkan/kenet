@@ -1,0 +1,1 @@
+Sarkilarini (mp3, m4a, ogg...) bu klasore koy, sonra build-apk.bat calistir.
